@@ -4,6 +4,8 @@
 This repository serves as a comprehensive resource for reviewing the concepts covered in the course.
 
 ## Contents
+
+### Java (OOP)
 - **Object-Oriented Principles**: Fundamental OOP concepts such as classes, objects, inheritance, encapsulation, and polymorphism.
 - **Design Patterns**: Common design patterns used in Java development to create efficient and maintainable code.
 
